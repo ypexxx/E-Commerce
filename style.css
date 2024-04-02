@@ -75,7 +75,7 @@ button {
 input[type="submit"] {
   cursor: pointer;
 }
-/* ----------form container------------- */
+/* ------------form container------------- */
 .form-container {
   background: var(--orange);
   width: 100%;
